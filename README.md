@@ -1,4 +1,4 @@
-# A Property Listing Application 
+# Android widget Wave animation  
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
 
 **This is a simple android widget ui.** 
