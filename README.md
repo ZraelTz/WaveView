@@ -3,14 +3,14 @@
 
 **This is a simple android widget ui.** 
 
-widget ui animation of a wave.
+Android widget ui animation of a wave.
+
+**Application:**
+[Debug apk version](app-debug.apk)
 
 **Sample Screenshot:**
 ![Preview](wv1.png)
 ![Preview](wv2.png)
 ![Preview](wv3.png)
 ![Preview](wv4.png)
-
-**Application:**
-[Debug apk version](app-debug.apk)
 
