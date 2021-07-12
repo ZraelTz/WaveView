@@ -6,7 +6,7 @@
 Android widget ui animation of a wave.
 
 **Application:**
-[Debug apk version](app-debug.apk)
+[apk debug version](app-debug.apk)
 
 **Sample Screenshot:**
 ![Preview](wv1.png)
